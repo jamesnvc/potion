@@ -1,0 +1,62 @@
+*potion.txt*   A plugin implementing support for the Potion programing language
+
+The Potion programming language is a simple io-like language originally
+invented by _why. This plugin implements various language support features for
+this language, based heavily on Steve Losh's "Learn Vimscript the Hard Way"
+tutorial.
+
+==============================================================================
+CONTENTS                                                  *Potion-contents*
+
+    1. Introduction ................................ |PotionIntro|
+    2. License ..................................... |PotionLicense|
+    3. Bugs ........................................ |PotionBugs|
+    4. Contributing ................................ |PotionContributing|
+    5. Changelog ................................... |PotionChangelog|
+    6. Credits ..................................... |PotionCredits|
+
+
+==============================================================================
+1. Introduction                                              *PotionIntro*
+
+Simply adds syntax highlighting, code-folding, and section-navigation to Potion
+files.
+
+==============================================================================
+2. License                                                  *PotionLicense*
+
+Potion.vim is copyright James Cash & contributors, 2012+ and is licensed
+under the Do Whatever the Fuck You Want Licence.
+
+==============================================================================
+3. Bugs                                                        *PotionBugs*
+
+Please report any bugs you may find on the GitHub issue tracker:
+
+    http://github.com/jamesnvc/potion/issues
+
+==============================================================================
+4. Contributing                                        *PotionContributing*
+
+Think you can make Potion.vim better?  Awesome.  New contributors are always
+welcome.
+
+Fork the project on BitBucket or GitHub and send a pull request.
+
+    GitHub:    http://github.com/jamesnvc/potion
+
+==============================================================================
+5. Changelog                                              *PotionChangelog*
+
+v0.0.1
+    * Basic stuff from LVtHW tutorial implemented
+
+==============================================================================
+6. Credits                                                 *PotionCredits*
+
+This mode was written entirely based on Steve Losh's awesome "Learn Vimscript
+the Hard Way" tutorial, all thanks to him!
+
+==============================================================================
+
+ vim:ts=4:et:ft=help:
